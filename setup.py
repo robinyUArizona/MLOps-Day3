@@ -20,7 +20,7 @@ with open('README.md', 'r', encoding="ISO-8859-1") as f:
 
 __version__ = "0.0.4"
 REPO_NAME = "MLOps-Day3-mongodbconnectorpkg"
-PKG_NAME= "databaseautomation"
+PKG_NAME= "mongodbpackage_robins"
 AUTHOR_USER_NAME = "robinyUArizona"
 AUTHOR_EMAIL = "robiny@arizona.edu"
 
