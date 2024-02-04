@@ -14,7 +14,7 @@ from typing import List
 #     return requirements
 
    
-with open('README.md', 'r', encoding='utf-8') as f:
+with open('README.md', 'r', encoding="ISO-8859-1") as f:
     long_description = f.read()     
    
 
