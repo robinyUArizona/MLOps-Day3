@@ -18,9 +18,9 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.6"
+__version__ = "0.0.8"
 REPO_NAME = "MLOps-Day3-mongodbconnectorpkg"
-PKG_NAME= "MongoDB-Connect"
+PKG_NAME= "databaseautomation"
 AUTHOR_USER_NAME = "robinyUArizona"
 AUTHOR_EMAIL = "robiny@arizona.edu"
 
